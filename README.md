@@ -17,10 +17,10 @@ Next, compute the mean and standard deviation of this final tensor and print the
 ## Usage
 1. Clone the repository:
 
-       git clone https://github.com/yourusername/pytorch-internship-assessment.git
+       git clone https://github.com/Ayushverma135/GMAC-Intelligence-LLP-Internship-Assessment.git
 2. Navigate to the cloned directory:
 
-       cd pytorch-internship-assessment
+       cd GMAC-Intelligence-LLP-Internship-Assessment
 3. Run the PyTorch program:
    
        python pytorch_program1.py
